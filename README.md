@@ -7,3 +7,6 @@ Note :** Provide Permission for Microphone **, If not asked by default , then lo
 Note : Only limited words have been tested ! Few words might not be considered.
 
 **Click on more button to use Duolingo Website **
+
+**Video Description**
+https://www.loom.com/share/575f21c949204e119cb749dea243b509
